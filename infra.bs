@@ -38,16 +38,16 @@ urlPrefix: https://tc39.github.io/ecma262/#; spec: ECMA-262;
 </style>
 
 
-<h2 id=goals class=no-num>Goals</h2>
+<h2 id=goals class=no-num>目标</h2>
 
 <ul>
- <li><p>Deduplicate boilerplate in standards.
+ <li><p>标准化工作重复内容的提炼.
 
- <li><p>Align standards on conventions, terminology, and data structures.
+ <li><p>统一约定、术语和数据结构标准.
 
- <li><p>Be a place for concepts used by multiple standards without a good home.
+ <li><p>给被多个标准使用的“流浪”概念一个家.
 
- <li><p>Help write clear and readable algorithmic prose by clarifying otherwise ambiguous concepts.
+ <li><p>通过梳理模糊概念，助力写出清晰易懂的算法文章.
 </ul>
 
 <p>Suggestions for more goals welcome.</p>
